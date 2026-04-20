@@ -82,7 +82,7 @@ Long-term goal? **AI Engineering.** Not just using LLMs — building the systems
 ## 📬 Find Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/minjiezhu)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jasonzhu1113@gmail.com)
 
 ---
 
